@@ -1,3 +1,0 @@
-i love opencv
-opencv is a image process
-C++
